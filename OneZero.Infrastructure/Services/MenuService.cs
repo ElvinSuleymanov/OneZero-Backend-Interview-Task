@@ -137,7 +137,7 @@ namespace OneZero.Infrastructure.Services
                 if (reader.TokenType == JsonToken.Boolean)
                     return (bool)reader.Value;
 
-                // Handle cases where the token is not valid for boolean
+                
                 return null;
             }
 
@@ -157,7 +157,6 @@ namespace OneZero.Infrastructure.Services
                         var jsonObject = JObject.Load(reader);
                         var weekdays = new Weekdays();
 
-                        // Parse each weekday
                         foreach (var property in jsonObject.Properties())
                         {
                             var day = property.Name;
@@ -194,7 +193,6 @@ namespace OneZero.Infrastructure.Services
 
                     public override void WriteJson(JsonWriter writer, Weekdays value, JsonSerializer serializer)
                 {
-                    // Implement if needed for serialization
                     throw new NotImplementedException();
                 }
             }

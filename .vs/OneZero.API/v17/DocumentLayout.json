@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Elvin\\source\\repos\\OneZero.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4A672BE-320A-40B7-9E5F-CE4924D95D38}|OneZero.Infrastructure\\OneZero.Infrastructure.csproj|c:\\users\\elvin\\source\\repos\\onezero.api\\onezero.infrastructure\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4A672BE-320A-40B7-9E5F-CE4924D95D38}|OneZero.Infrastructure\\OneZero.Infrastructure.csproj|solutionrelative:onezero.infrastructure\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B43BF5F3-3278-4E0F-8137-4FDF4C79AF5F}|OneZero.Domain\\OneZero.Domain.csproj|c:\\users\\elvin\\source\\repos\\onezero.api\\onezero.domain\\entities\\allone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B43BF5F3-3278-4E0F-8137-4FDF4C79AF5F}|OneZero.Domain\\OneZero.Domain.csproj|solutionrelative:onezero.domain\\entities\\allone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28B0A1CB-CEC0-4703-91E2-8999B83187C5}|OneZero.API\\OneZero.API.csproj|c:\\users\\elvin\\source\\repos\\onezero.api\\onezero.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28B0A1CB-CEC0-4703-91E2-8999B83187C5}|OneZero.API\\OneZero.API.csproj|solutionrelative:onezero.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28B0A1CB-CEC0-4703-91E2-8999B83187C5}|OneZero.API\\OneZero.API.csproj|c:\\users\\elvin\\source\\repos\\onezero.api\\onezero.api\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28B0A1CB-CEC0-4703-91E2-8999B83187C5}|OneZero.API\\OneZero.API.csproj|solutionrelative:onezero.api\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD7BF51B-D99A-4B7D-BDA4-F113F0BDE38C}|OneZero.Application\\OneZero.Application.csproj|c:\\users\\elvin\\source\\repos\\onezero.api\\onezero.application\\interfaces\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD7BF51B-D99A-4B7D-BDA4-F113F0BDE38C}|OneZero.Application\\OneZero.Application.csproj|solutionrelative:onezero.application\\interfaces\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28B0A1CB-CEC0-4703-91E2-8999B83187C5}|OneZero.API\\OneZero.API.csproj|c:\\users\\elvin\\source\\repos\\onezero.api\\onezero.api\\wwwroot\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{28B0A1CB-CEC0-4703-91E2-8999B83187C5}|OneZero.API\\OneZero.API.csproj|solutionrelative:onezero.api\\wwwroot\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{28B0A1CB-CEC0-4703-91E2-8999B83187C5}|OneZero.API\\OneZero.API.csproj|c:\\users\\elvin\\source\\repos\\onezero.api\\onezero.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B0A1CB-CEC0-4703-91E2-8999B83187C5}|OneZero.API\\OneZero.API.csproj|solutionrelative:onezero.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B0A1CB-CEC0-4703-91E2-8999B83187C5}|OneZero.API\\OneZero.API.csproj|c:\\users\\elvin\\source\\repos\\onezero.api\\onezero.api\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B0A1CB-CEC0-4703-91E2-8999B83187C5}|OneZero.API\\OneZero.API.csproj|solutionrelative:onezero.api\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B0A1CB-CEC0-4703-91E2-8999B83187C5}|OneZero.API\\OneZero.API.csproj|c:\\users\\elvin\\source\\repos\\onezero.api\\onezero.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B0A1CB-CEC0-4703-91E2-8999B83187C5}|OneZero.API\\OneZero.API.csproj|solutionrelative:onezero.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A672BE-320A-40B7-9E5F-CE4924D95D38}|OneZero.Infrastructure\\OneZero.Infrastructure.csproj|c:\\users\\elvin\\source\\repos\\onezero.api\\onezero.infrastructure\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A672BE-320A-40B7-9E5F-CE4924D95D38}|OneZero.Infrastructure\\OneZero.Infrastructure.csproj|solutionrelative:onezero.infrastructure\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B43BF5F3-3278-4E0F-8137-4FDF4C79AF5F}|OneZero.Domain\\OneZero.Domain.csproj|c:\\users\\elvin\\source\\repos\\onezero.api\\onezero.domain\\enums\\weekdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B43BF5F3-3278-4E0F-8137-4FDF4C79AF5F}|OneZero.Domain\\OneZero.Domain.csproj|solutionrelative:onezero.domain\\enums\\weekdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD7BF51B-D99A-4B7D-BDA4-F113F0BDE38C}|OneZero.Application\\OneZero.Application.csproj|c:\\users\\elvin\\source\\repos\\onezero.api\\onezero.application\\onezero.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DD7BF51B-D99A-4B7D-BDA4-F113F0BDE38C}|OneZero.Application\\OneZero.Application.csproj|solutionrelative:onezero.application\\onezero.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28B0A1CB-CEC0-4703-91E2-8999B83187C5}|OneZero.API\\OneZero.API.csproj|c:\\users\\elvin\\source\\repos\\onezero.api\\onezero.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28B0A1CB-CEC0-4703-91E2-8999B83187C5}|OneZero.API\\OneZero.API.csproj|solutionrelative:onezero.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,55 +38,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AllOne.cs",
-              "DocumentMoniker": "C:\\Users\\Elvin\\source\\repos\\OneZero.API\\OneZero.Domain\\Entities\\AllOne.cs",
-              "RelativeDocumentMoniker": "OneZero.Domain\\Entities\\AllOne.cs",
-              "ToolTip": "C:\\Users\\Elvin\\source\\repos\\OneZero.API\\OneZero.Domain\\Entities\\AllOne.cs",
-              "RelativeToolTip": "OneZero.Domain\\Entities\\AllOne.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAkwA0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T12:56:44.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Elvin\\source\\repos\\OneZero.API\\OneZero.API\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "OneZero.API\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Elvin\\source\\repos\\OneZero.API\\OneZero.API\\Controllers\\ProductController.cs",
               "RelativeToolTip": "OneZero.API\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T12:55:27.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "data.json",
-              "DocumentMoniker": "C:\\Users\\Elvin\\source\\repos\\OneZero.API\\OneZero.API\\wwwroot\\data.json",
-              "RelativeDocumentMoniker": "OneZero.API\\wwwroot\\data.json",
-              "ToolTip": "C:\\Users\\Elvin\\source\\repos\\OneZero.API\\OneZero.API\\wwwroot\\data.json",
-              "RelativeToolTip": "OneZero.API\\wwwroot\\data.json",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-07T12:18:24.463Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OneZero.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\Elvin\\source\\repos\\OneZero.API\\OneZero.Application\\OneZero.Application.csproj",
-              "RelativeDocumentMoniker": "OneZero.Application\\OneZero.Application.csproj",
-              "ToolTip": "C:\\Users\\Elvin\\source\\repos\\OneZero.API\\OneZero.Application\\OneZero.Application.csproj",
-              "RelativeToolTip": "OneZero.Application\\OneZero.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-07T09:48:09.627Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:09:08.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllOne.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\source\\repos\\OneZero.API\\OneZero.Domain\\Entities\\AllOne.cs",
+              "RelativeDocumentMoniker": "OneZero.Domain\\Entities\\AllOne.cs",
+              "ToolTip": "C:\\Users\\Elvin\\source\\repos\\OneZero.API\\OneZero.Domain\\Entities\\AllOne.cs",
+              "RelativeToolTip": "OneZero.Domain\\Entities\\AllOne.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAA3wGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:08:58.874Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -110,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "IMenuService.cs",
               "DocumentMoniker": "C:\\Users\\Elvin\\source\\repos\\OneZero.API\\OneZero.Application\\Interfaces\\IMenuService.cs",
               "RelativeDocumentMoniker": "OneZero.Application\\Interfaces\\IMenuService.cs",
@@ -118,17 +88,18 @@
               "RelativeToolTip": "OneZero.Application\\Interfaces\\IMenuService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T09:11:41.999Z"
+              "WhenOpened": "2024-09-07T09:11:41.999Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MenuService.cs",
               "DocumentMoniker": "C:\\Users\\Elvin\\source\\repos\\OneZero.API\\OneZero.Infrastructure\\Services\\MenuService.cs",
               "RelativeDocumentMoniker": "OneZero.Infrastructure\\Services\\MenuService.cs",
               "ToolTip": "C:\\Users\\Elvin\\source\\repos\\OneZero.API\\OneZero.Infrastructure\\Services\\MenuService.cs",
               "RelativeToolTip": "OneZero.Infrastructure\\Services\\MenuService.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAIAwwFoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwBAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T09:11:21.716Z",
               "EditorCaption": ""
@@ -143,19 +114,21 @@
               "RelativeToolTip": "OneZero.API\\Controllers\\MenuController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T10:01:34.354Z"
+              "WhenOpened": "2024-09-07T10:01:34.354Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Elvin\\source\\repos\\OneZero.API\\OneZero.API\\Program.cs",
               "RelativeDocumentMoniker": "OneZero.API\\Program.cs",
               "ToolTip": "C:\\Users\\Elvin\\source\\repos\\OneZero.API\\OneZero.API\\Program.cs",
               "RelativeToolTip": "OneZero.API\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T10:13:33.357Z"
+              "WhenOpened": "2024-09-07T10:13:33.357Z",
+              "EditorCaption": ""
             }
           ]
         }
