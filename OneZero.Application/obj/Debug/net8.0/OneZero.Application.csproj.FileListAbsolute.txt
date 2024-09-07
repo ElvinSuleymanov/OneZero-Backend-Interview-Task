@@ -1,0 +1,15 @@
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Application\bin\Debug\net8.0\OneZero.Application.deps.json
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Application\bin\Debug\net8.0\OneZero.Application.dll
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Application\bin\Debug\net8.0\OneZero.Application.pdb
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Application\bin\Debug\net8.0\OneZero.Domain.dll
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Application\bin\Debug\net8.0\OneZero.Domain.pdb
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Application\obj\Debug\net8.0\OneZero.Application.csproj.AssemblyReference.cache
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Application\obj\Debug\net8.0\OneZero.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Application\obj\Debug\net8.0\OneZero.Application.AssemblyInfoInputs.cache
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Application\obj\Debug\net8.0\OneZero.Application.AssemblyInfo.cs
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Application\obj\Debug\net8.0\OneZero.Application.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Application\obj\Debug\net8.0\OneZero..59816E45.Up2Date
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Application\obj\Debug\net8.0\OneZero.Application.dll
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Application\obj\Debug\net8.0\refint\OneZero.Application.dll
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Application\obj\Debug\net8.0\OneZero.Application.pdb
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Application\obj\Debug\net8.0\ref\OneZero.Application.dll

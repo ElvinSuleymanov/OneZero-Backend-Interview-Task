@@ -1,0 +1,17 @@
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Infrastructure\bin\Debug\net8.0\OneZero.Infrastructure.deps.json
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Infrastructure\bin\Debug\net8.0\OneZero.Infrastructure.dll
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Infrastructure\bin\Debug\net8.0\OneZero.Infrastructure.pdb
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Infrastructure\bin\Debug\net8.0\OneZero.Application.dll
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Infrastructure\bin\Debug\net8.0\OneZero.Domain.dll
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Infrastructure\bin\Debug\net8.0\OneZero.Application.pdb
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Infrastructure\bin\Debug\net8.0\OneZero.Domain.pdb
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Infrastructure\obj\Debug\net8.0\OneZero.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Infrastructure\obj\Debug\net8.0\OneZero.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Infrastructure\obj\Debug\net8.0\OneZero.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Infrastructure\obj\Debug\net8.0\OneZero.Infrastructure.AssemblyInfo.cs
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Infrastructure\obj\Debug\net8.0\OneZero.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Infrastructure\obj\Debug\net8.0\OneZero..578EB48D.Up2Date
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Infrastructure\obj\Debug\net8.0\OneZero.Infrastructure.dll
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Infrastructure\obj\Debug\net8.0\refint\OneZero.Infrastructure.dll
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Infrastructure\obj\Debug\net8.0\OneZero.Infrastructure.pdb
+C:\Users\Elvin\source\repos\OneZero.API\OneZero.Infrastructure\obj\Debug\net8.0\ref\OneZero.Infrastructure.dll

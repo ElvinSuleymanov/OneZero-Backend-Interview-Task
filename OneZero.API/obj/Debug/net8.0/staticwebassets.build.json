@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "cn/zgQnXfDWekbFUjvpqfV/foQwZCrYlgKNrx8NTmjw=",
+  "Source": "OneZero.API",
+  "BasePath": "_content/OneZero.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OneZero.API\\wwwroot",
+      "Source": "OneZero.API",
+      "ContentRoot": "C:\\Users\\Elvin\\source\\repos\\OneZero.API\\OneZero.API\\wwwroot\\",
+      "BasePath": "_content/OneZero.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Elvin\\source\\repos\\OneZero.API\\OneZero.API\\wwwroot\\data.json",
+      "SourceId": "OneZero.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Elvin\\source\\repos\\OneZero.API\\OneZero.API\\wwwroot\\",
+      "BasePath": "_content/OneZero.API",
+      "RelativePath": "data.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data.json"
+    }
+  ]
+}
